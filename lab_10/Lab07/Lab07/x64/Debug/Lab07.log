@@ -1,0 +1,8 @@
+﻿  CMatrix.cpp
+  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Создание кода...
+C:\Users\nikit\OneDrive\Рабочий стол\ОКГ\lab_10\Lab07\Lab07\LibSurface.h(270,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\ОКГ\lab_10\Lab07\Lab07\LibSurface.h(271,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\ОКГ\lab_10\Lab07\Lab07\LibSurface.h(200,1): warning C4715: CPlot3D::GetNumberRegion: значение возвращается не при всех путях выполнения
+  Lab07.vcxproj -> C:\Users\nikit\OneDrive\Рабочий стол\ОКГ\lab_10\Lab07\x64\Debug\Lab10.exe
